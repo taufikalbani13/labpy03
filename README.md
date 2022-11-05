@@ -11,7 +11,7 @@
 
 ## A. Algoritma program untuk menanmpilkan bilangan terbesar dari tiga buah bilangan
 1. Mulai
-2. Inisiasi bil1,bil2,bil3 sebagai integer.
+2. Input bil1,bil2,bil3 sebagai integer.
 3. Baca bil1.
 4. Baca bil2.
 5. Baca bil3.
