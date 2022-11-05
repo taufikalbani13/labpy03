@@ -1,7 +1,38 @@
-# labpy03
+
 # Nama = Taufik eka albani
 # Nim = 312210347
 # Kelas = TI.22.A3
+
+# labspy02
+
+# Praktikum 2
+
+# Program sederhana dengan input tiga buah bilangan lalu tampilkan bilangan terbesarnya
+
+## A. Algoritma program untuk menanmpilkan bilangan terbesar dari tiga buah bilangan
+1. Mulai
+2. Inisiasi bil1,bil2,bil3 sebagai integer.
+3. Baca bil1.
+4. Baca bil2.
+5. Baca bil3.
+6. Jika bil1 > bil2 dan bil1 > bil3 maka kerjakan langkah 8, selain itu
+7. Jika bil2 > bil1 dan bil2 > bil3 maka kerjakan langkah 9, selain itu kerjakan langkah 10.
+8. Print “Bilangan Terbesar Bilangan Pertama”.
+9. Print “Bilangan Terbesar Bilangan Kedua”.
+10. Print “Bilangan Terbesar Bilangan Ketiga”.
+11. Selesai
+
+# B. Flowchart program
+
+![Screenshot (68)](https://user-images.githubusercontent.com/115517181/200127222-263db6a8-6a0d-4842-a078-4af40a30c298.png)
+
+# D. Hasil
+
+![Screenshot (57)](https://user-images.githubusercontent.com/115517181/200127332-e68652e6-7a52-4f01-8f14-ec89e171bcd8.png)
+
+
+
+# labspy03
 
 # Latihan 1
 
@@ -16,17 +47,10 @@
 
 # B. Flowchart Program
 
-![flowchart latihan1](https://user-images.githubusercontent.com/46926758/53193448-8e52a380-3643-11e9-9f3e-82b74718a6aa.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/115517181/200127252-15e9543a-44e8-4f7c-b83a-1972c23cada2.png)
+
  
 # C. Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
-
-## > Urutan Pembuatan Program
-
-1. Ketikan Program *print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')*
-2. Ketikan Program *jumlah=int(input("Masukan Jumlah N : "))*
-3. Ketikan Program *import random*
-4. Ketikan Program *for i in range ( jumlah ) :*
-5. Ketikan Program *print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5)))* 
 
 ### > Penjelasan Alur Program
 
@@ -61,22 +85,10 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 
 ## B. Flowchart Program
 
-![flowchart latihan2](https://user-images.githubusercontent.com/46926758/53195549-73366280-3648-11e9-9741-4b5eba27802d.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/115517181/200127365-89dcd3c1-c7d1-428c-ba2a-658b2e1b83cb.png)
+
 
 ## C. Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
-
-
-### > Urutan Pembuatan Program
-
-1. Ketikan Program *print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan')*
-2. Ketikan Program *max= 0*
-3. Ketikan Program *while true:*
-4. Ketikan Program *a=int(input("Masukan Bilangan :"))*
-5. Ketikan Program *if max < a*
-6. Ketikan Program *max=a*
-7. Ketikan Program *if a==0:*
-8. Ketikan Program *break*
-9. Ketikan Program *print("Bilangan Tebesar Adalah :", max)*
 
 ### > Penjelasan Alur Program
 
@@ -115,23 +127,10 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 
 ## B. Flowchart Program1
 
-![53196983-d970b480-364b-11e9-846a-f738b6116a58](https://user-images.githubusercontent.com/115517181/199748986-d659e93e-1714-454c-8831-50bc95b1254d.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/115517181/200127353-508830f7-7b43-4c85-b022-79dd2b9c308a.png)
+
 
 # C. Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
-
-
-
-### > Urutan Pembuatan Program
-
-1. Ketikan Program *print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')*
-2. Ketikan Program *x=20000000*
-3. Ketikan Program *print (" Modal Awal:",x)*
-4. Ketikan Program *a=0x, b=0x, c=0.01x, d=0.01x, e=0.05x, f=0.05x, g=0.05x, h=0.03x*
-5. Ketikan Program *t=[a,b,c,d,e,f,g,h]*
-6. Ketikan Program *For i in range (len (t))*
-7. Ketikan Program *Print (“laba bulan ke-“,i+1,”sebesar:” ,t[i])*
-8. Ketikan Program *u= (a+b+c+d+e+f+g+h)*
-9. Ketikan Program *Print (“total laba adalah:”)*
 
 ### > Penjelasan Alur Program
 
